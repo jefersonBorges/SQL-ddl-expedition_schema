@@ -4,10 +4,13 @@ This exercise is a practice of SQL language inside the discipline of databases 1
 
 ## content
 
-- select
-- create table
-- primary and foreign keys
-- insert into
-- delete
-- update
-- drop table
+- DDL
+  - select
+  - create table
+  - primary and foreign keys
+  - insert into
+  - delete
+  - update
+  - drop table
+
+---
